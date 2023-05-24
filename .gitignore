@@ -1,3 +1,5 @@
 venv/
 utils.py
 *.xml
+.idea
+__pycache__
